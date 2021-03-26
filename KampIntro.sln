@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSecond", "OOPSecond\OOPS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPThird", "OOPThird\OOPThird.csproj", "{B54D2987-EAA2-4EE9-9C7D-51A49A81C346}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{AB8D54E4-E5BB-4AC6-BA79-D26F0E2A07FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B54D2987-EAA2-4EE9-9C7D-51A49A81C346}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B54D2987-EAA2-4EE9-9C7D-51A49A81C346}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B54D2987-EAA2-4EE9-9C7D-51A49A81C346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8D54E4-E5BB-4AC6-BA79-D26F0E2A07FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8D54E4-E5BB-4AC6-BA79-D26F0E2A07FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8D54E4-E5BB-4AC6-BA79-D26F0E2A07FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8D54E4-E5BB-4AC6-BA79-D26F0E2A07FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
